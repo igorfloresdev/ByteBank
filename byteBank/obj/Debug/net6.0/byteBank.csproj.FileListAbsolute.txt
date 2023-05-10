@@ -1,0 +1,15 @@
+D:\Documentos\Alura\Csharp\byteBank\byteBank\bin\Debug\net6.0\byteBank.exe
+D:\Documentos\Alura\Csharp\byteBank\byteBank\bin\Debug\net6.0\byteBank.deps.json
+D:\Documentos\Alura\Csharp\byteBank\byteBank\bin\Debug\net6.0\byteBank.runtimeconfig.json
+D:\Documentos\Alura\Csharp\byteBank\byteBank\bin\Debug\net6.0\byteBank.dll
+D:\Documentos\Alura\Csharp\byteBank\byteBank\bin\Debug\net6.0\byteBank.pdb
+D:\Documentos\Alura\Csharp\byteBank\byteBank\obj\Debug\net6.0\byteBank.csproj.AssemblyReference.cache
+D:\Documentos\Alura\Csharp\byteBank\byteBank\obj\Debug\net6.0\byteBank.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documentos\Alura\Csharp\byteBank\byteBank\obj\Debug\net6.0\byteBank.AssemblyInfoInputs.cache
+D:\Documentos\Alura\Csharp\byteBank\byteBank\obj\Debug\net6.0\byteBank.AssemblyInfo.cs
+D:\Documentos\Alura\Csharp\byteBank\byteBank\obj\Debug\net6.0\byteBank.csproj.CoreCompileInputs.cache
+D:\Documentos\Alura\Csharp\byteBank\byteBank\obj\Debug\net6.0\byteBank.dll
+D:\Documentos\Alura\Csharp\byteBank\byteBank\obj\Debug\net6.0\refint\byteBank.dll
+D:\Documentos\Alura\Csharp\byteBank\byteBank\obj\Debug\net6.0\byteBank.pdb
+D:\Documentos\Alura\Csharp\byteBank\byteBank\obj\Debug\net6.0\byteBank.genruntimeconfig.cache
+D:\Documentos\Alura\Csharp\byteBank\byteBank\obj\Debug\net6.0\ref\byteBank.dll
